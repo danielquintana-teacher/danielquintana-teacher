@@ -1,5 +1,5 @@
 <!-- imagen antigua https://github.com/AdQuinti/AdQuinti/blob/main/image/CV-Conocimiento.png?raw=true-->
-<div align="center"><img src="https://github.com/danielquintana-teacher/danielquintana-teacher/blob/main/image/GitHubDanielQuintana.jpg" width="100%" height="70%"/></div>
+<div align="center"><img src="https://github.com/danielquintana-teacher/danielquintana-teacher/blob/main/image/GitHubDanielQuintana.jpg" width="85%" height="55%"/></div>
 <div align="center">
 	<table border="0">
 		<tr>
