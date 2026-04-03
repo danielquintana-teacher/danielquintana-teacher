@@ -1,5 +1,5 @@
 <!-- imagen antigua https://github.com/AdQuinti/AdQuinti/blob/main/image/CV-Conocimiento.png?raw=true-->
-<div align="center"><img src="https://github.com/danielquintana-teacher/danielquintana-teacher/blob/main/image/GitHubDanielQuintana.jpg" width="55%" height="35%"/></div>
+<div align="center"><img src="https://github.com/danielquintana-teacher/danielquintana-teacher/blob/main/image/GitHubDanielQuintana.jpg" width="75%" height="55%"/></div>
 <div align="center">
 	<table border="0">
 		<tr>
@@ -41,7 +41,7 @@
           	<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVxNGpuZ3V4YmQ0M3lndW1mcTc2dmpqM3NzMGxqeGdhb2NnODVhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" tittle="Specialist" width="150" height="100"/>
             <!-- <img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/specialist-in.png?raw=true" tittle="Specialist" width="150" height="100"/>-->
          </td>
-         <td align="center" width="100em"><img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/flecha.png?raw=true" width="50em" height="35em"/></td>
+         <!--<td align="center" width="100em"><img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/flecha.png?raw=true" width="50em" height="35em"/></td>-->
          <td>
          	<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height=" 40" title="Git"/>
          	<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"  title="Java"/>
