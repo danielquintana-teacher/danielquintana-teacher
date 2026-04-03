@@ -30,7 +30,7 @@
                      </div> 
                   </td>
                   <td><img src="https://github.com/danielquintana-teacher/danielquintana-teacher/blob/main/image/snoopy.jpg" width="80" height="100" tittle="Snoopy-Developer" alt="Snoopy-Developer"/></td>
-					 <!-- <img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/GarfiledSleep.png?raw=true"  tittle="Garfield coffe" width="100" height="100"/>-->
+					 <!-- <img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/GarfiledSleep.png?raw=true"  tittle="Garfield coffe" width="110" height="140"/>-->
                </tr>
             </table>
 			</td>
