@@ -29,7 +29,8 @@
                       	<a href="https://github.com/danielquintana-teacher" target="_blank"><img src="https://camo.githubusercontent.com/f83b864a25da3d2febd1f2f34d16851f3f98eadf4b52955ca3bed7a323c3cd89/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d253230666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" target="_blank" alt="GitHub" title="Github" width="65em" height="20em"></a>
                      </div> 
                   </td>
-                  <td><img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/GarfiledSleep.png?raw=true"  tittle="Garfield coffe" width="100" height="100"/></td>
+                  <td><img src="https://github.com/danielquintana-teacher/danielquintana-teacher/blob/main/image/snoopy.jpg"  tittle="Garfield coffe" width="100" height="100"/></td>
+					 <!-- <img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/GarfiledSleep.png?raw=true"  tittle="Garfield coffe" width="100" height="100"/>-->
                </tr>
             </table>
 			</td>
