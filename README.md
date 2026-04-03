@@ -24,9 +24,9 @@
                   	<div align="center">
                      	<a href = "mailto:profedanielquintana@gmail.com"><img src="https://imaginethatcreative.net/blog/wp-content/uploads/2023/06/2250206.png" target="_blank" witdh="20em" height="35em"/></a>
                      	<br/>
-                     	<a href="https://www.linkedin.com/in/adquinti" objetivo ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="65em" height="20em"></a>
+                     	<a href="https://www.linkedin.com/in/adquinti" objetivo ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" title="LinkedIn" width="65em" height="20em"></a>
                      	<br/>
-                      	<a href="https://github.com/danielquintana-teacher" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style= for-the-badge&logo=github&logoColor=white" target="_blank" width="65em" height="20em"></a>
+                      	<a href="https://github.com/danielquintana-teacher" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style= for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub" title="Github" width="65em" height="20em"></a>
                      </div> 
                   </td>
                   <td><img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/GarfiledSleep.png?raw=true"  tittle="Garfield coffe" width="100" height="100"/></td>
